@@ -10,11 +10,10 @@ Create a mini website utilising PHP, ajax, JavaScript and/or jQuery, HTML and SC
 - Using the provided design style the pages with SCSS/SASS/CSS
 
 ---
----
 
 # Pages
 ## Home
-Create a page listing the 10 most popular, published posts. The design/layout has been provided.
+Create a page listing the 10 most popular, published posts including an snippet of the content. The design has been provided.
 
 ## Post
 Create a page displaying the selected post.
@@ -22,7 +21,6 @@ Create a page displaying the selected post.
 ## Author
 Create a page displaying the most recent, published posts from the selected author.
 
----
 ---
 
 # Files
