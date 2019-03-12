@@ -3,14 +3,16 @@
 Create a mini website utilising PHP, ajax, JavaScript and/or jQuery, HTML and SCSS/SASS/CSS:
 - PHP will be used to process the JSON files.
 - Ajax will be used to fetch the processed data from the PHP file
-- JavaScript and/or jQuery will be used to render the data to the &lt;main&gt; tag, replacing its contents
+- JavaScript and/or jQuery will be used to render the data to the `<main>` tag, replacing its contents
 - HTML will be used as the data structure
 
 ## Design
 - Using the provided design style the pages with SCSS/SASS/CSS
 
-# Pages
+---
+---
 
+# Pages
 ## Home
 Create a page listing the 10 most popular, published posts. The design/layout has been provided.
 
@@ -19,6 +21,9 @@ Create a page displaying the selected post.
 
 ## Author
 Create a page displaying the most recent, published posts from the selected author.
+
+---
+---
 
 # Files
 For this task you'll **only** need to use the following files
@@ -33,7 +38,7 @@ This file is where you render the data to via JavaScript and/or jQuery.
 We've set-up this file with all   
 
 ## script.js
-This file is where you'll be processing the ajax returned data into HTML and to the &lt;main&gt; tag.  
+This file is where you'll be processing the ajax returned data into HTML and to the `<main>` tag.  
 This file will need to be included in the index.html file.
 We've included the basic functionality in this file to make the ajax call, passing the data to the callback  
 **This will be the only place where your custom HTML should be**
