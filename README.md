@@ -1,10 +1,13 @@
 # Task
+## Development
 Create a mini website utilising PHP, ajax, JavaScript and/or jQuery, HTML and SCSS/SASS/CSS:
 - PHP will be used to process the JSON files.
 - Ajax will be used to fetch the processed data from the PHP file
 - JavaScript and/or jQuery will be used to render the data to the &lt;main&gt; tag, replacing its contents
 - HTML will be used as the data structure
-- (S)CSS will be used to style the page
+
+## Design
+- Using the provided design style the pages with SCSS/SASS/CSS
 
 # Pages
 
@@ -18,7 +21,7 @@ Create a page displaying the selected post.
 Create a page displaying the most recent, published posts from the selected author.
 
 # Files
-For this task you'll only need to use the following files
+For this task you'll **only** need to use the following files
 
 ## ajax.php
 This file will be where you do all your PHP-based processing ready to be output to your script.js file.  
