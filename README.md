@@ -7,7 +7,7 @@ Create a mini website utilising PHP, ajax, JavaScript and/or jQuery, HTML and SC
 - HTML will be used as the data structure
 
 ## Design
-- Using the provided design style the pages with SCSS/SASS/CSS
+- There's no design, we just ask you to make it look pretty.
 
 ---
 
