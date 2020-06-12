@@ -28,7 +28,8 @@ For this task you'll **only** need to use the following files
 
 ## ajax.php
 This file will be where you do all your PHP-based processing/sorting ready to be output to your script.js file.  
-We've included the basic functionality to get the contents of a json file for post id 1  
+We've included the basic functionality to get the contents of a json file for post id 1.
+There's also a deliberate syntax error in this file that you'll also need to fix.
 **No HTML should be contained within this file**
 
 ## index.html
