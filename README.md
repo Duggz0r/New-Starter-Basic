@@ -13,7 +13,7 @@ There's no design, we just ask you to make it look pretty. We've included [Boots
 
 # Pages
 ## Home
-Create a page listing the 10 most popular, published posts including an snippet of the content. The design has been provided.
+Create a page listing the 10 most popular, published posts including an snippet of the content.
 
 ## Post
 Create a page displaying the selected post.
@@ -32,8 +32,7 @@ We've included the basic functionality to get the contents of a json file for po
 **No HTML should be contained within this file**
 
 ## index.html
-This file is where you render the data to via JavaScript and/or jQuery.  
-We've set-up this file with all   
+This file is where you render the data to via JavaScript and/or jQuery.
 
 ## script.js
 This file is where you'll be processing the ajax returned data into HTML and to the `<main>` tag.  
