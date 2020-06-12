@@ -4,7 +4,7 @@ Create a public fork of this repository and create a mini website utilising PHP,
 - PHP will be used to process the JSON files.
 - Ajax will be used to fetch the processed data from the PHP file
 - JavaScript and/or jQuery will be used to render the data to the `<main>` tag, replacing its contents
-- HTML will be used as the data structure
+- HTML will be used as the base data structure
 
 ## Design
 There's no design, we just ask you to make it look pretty. We've included [Bootstrap](https://getbootstrap.com/) incase you want to use it :).
