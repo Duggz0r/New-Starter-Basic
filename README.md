@@ -27,7 +27,7 @@ Create a page displaying the most recent, published posts from the selected auth
 For this task you'll **only** need to use the following files
 
 ## ajax.php
-This file will be where you do all your PHP-based processing ready to be output to your script.js file.  
+This file will be where you do all your PHP-based processing/sorting ready to be output to your script.js file.  
 We've included the basic functionality to get the contents of a json file for post id 1  
 **No HTML should be contained within this file**
 
