@@ -7,7 +7,7 @@ Create a public fork of this repository and create a mini website utilising PHP,
 - HTML will be used as the base data structure
 
 ## Design
-There's no design, we just ask you to make it look pretty. We've included [Bootstrap](https://getbootstrap.com/) incase you want to use it :).
+There's no design, we just ask you to make it look pretty.
 
 ---
 
