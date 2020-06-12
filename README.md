@@ -46,7 +46,7 @@ This file will be generated for you from the .scss file, below. However you will
 **Do not edit the CSS in this file**
 
 ## style.scss
-This file will be where you'll put all your SCSS/SASS/CSS. Visual Studio Code will automatically compile and upload this for you.
+This file will be where you'll put all your SCSS/SASS/CSS. This will need compiling into the style.css file.
 
 ## /json/posts.json
 This file contains the data for your posts
